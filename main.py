@@ -2,7 +2,7 @@ import telebot
 import os
 
 # توکن ربات رو از محیط می‌گیره (نه مستقیم داخل کد)
-BOT_TOKEN = os.environ.get("6100374382:AAFT3TEx_eHfUfGONjq4wurUgZTeisrZ0EI")
+BOT_TOKEN = os.environ.get("8105590498:AAE2m5zyazHzn41MmCHK9uajasOq30eWbcI")
 
 bot = telebot.TeleBot(BOT_TOKEN)
 
